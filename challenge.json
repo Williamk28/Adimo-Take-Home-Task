@@ -1,0 +1,124 @@
+[
+    {
+        "name": "English Cider Collection\n5-Pack",
+        "price": "£12.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/bundle_cider1.jpg"
+    },
+    {
+        "name": "Somerset Cider Brandy 10 Year Old",
+        "price": "£48.25",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_som1.jpg"
+    },
+    {
+        "name": "Somerset Cider Brandy 5 Year Old",
+        "price": "£39.75",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_som7.jpg"
+    },
+    {
+        "name": "Somerset Cider Brandy 3 Year Old\nHalf Bottle",
+        "price": "£17.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_som5.jpg"
+    },
+    {
+        "name": "Somerset Cider Brandy Alchemy",
+        "price": "£69.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_som4.jpg"
+    },
+    {
+        "name": "Somerset Cider Brandy 3 Year Old",
+        "price": "£32.25",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_som11.jpg"
+    },
+    {
+        "name": "Maley Cider Aperitif",
+        "price": "£27.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/vermo_mal1.jpg"
+    },
+    {
+        "name": "Somerset Cider Brandy 20 Year Old",
+        "price": "£108",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_som3.jpg"
+    },
+    {
+        "name": "Somerset Ice Cider\nHalf Litre",
+        "price": "£16.45",
+        "imageURL": "https://img.thewhiskyexchange.com/480/cider_som1.jpg"
+    },
+    {
+        "name": "Hogan's Dry Cider",
+        "price": "£3.25",
+        "imageURL": "https://img.thewhiskyexchange.com/480/cider_hog1.jpg"
+    },
+    {
+        "name": "Umbrella Rhubarb Cider",
+        "price": "£2.45",
+        "imageURL": "https://img.thewhiskyexchange.com/480/cider_umb4.jpg"
+    },
+    {
+        "name": "Umbrella Apple Cider",
+        "price": "£2.25",
+        "imageURL": "https://img.thewhiskyexchange.com/480/cider_umb2.jpg"
+    },
+    {
+        "name": "Curious Apple Cider",
+        "price": "£2.25",
+        "imageURL": "https://img.thewhiskyexchange.com/480/cider_cur1.jpg"
+    },
+    {
+        "name": "Somerset Shipwreck Cider Brandy\n8 Year Old",
+        "price": "£39.75",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_som9.jpg"
+    },
+    {
+        "name": "Kentish Pip Skylark Medium Dry Cider",
+        "price": "£2.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/cider_ken3.jpg"
+    },
+    {
+        "name": "Kentish Pip Skylark Medium Dry Cider",
+        "price": "£2.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/cider_ken1.jpg"
+    },
+    {
+        "name": "Kentish Pip High Diver Medium Dry Cider",
+        "price": "£2.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/cider_ken2.jpg"
+    },
+    {
+        "name": "Somerset Morello Cherry Liqueur",
+        "price": "£14.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/liq_som2.jpg"
+    },
+    {
+        "name": "Busnel Calvados Pays d'Auge",
+        "price": "£22.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_bus7.jpg"
+    },
+    {
+        "name": "Dupont Fine Calvados",
+        "price": "£36.45",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_dup13.jpg"
+    },
+    {
+        "name": "Pere Magloire VS Fine AOC Calvados",
+        "price": "£29.75",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_per16.jpg"
+    },
+    {
+        "name": "Laird's Applejack (3-4 Year Old)",
+        "price": "£34.95",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_lai1.jpg"
+    },
+    {
+        "name": "Boulard Grand Solage Calvados\nPays d'Auge",
+        "price": "£34.45",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_bou1.jpg"
+    },
+    {
+        "name": "Christian Drouin Caroni Angels 17 Year Old Calvados Pays D'Auge",
+        "price": "£105",
+        "imageURL": "https://img.thewhiskyexchange.com/480/calva_dro17yov1.jpg"
+    },
+    "The total number of ciders is 24",
+    "The average price of all items is £29.62"
+]

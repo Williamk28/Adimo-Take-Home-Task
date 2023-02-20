@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Cashel Blue",
+    "localImageURL": "images/cashelblue.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/cashelblue.jpg",
+    "oldPrice": "",
+    "currentPrice": "£5.43"
+  },
+  {
+    "title": "Dunshyre Blue",
+    "localImageURL": "images/dunshyreblue.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/dunshyreblue.jpg",
+    "oldPrice": "",
+    "currentPrice": "£8.00"
+  },
+  {
+    "title": "Dunshyre Blue",
+    "localImageURL": "images/evesselection.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/evesselection.jpg",
+    "oldPrice": "£50.00",
+    "currentPrice": "£45.00"
+  },
+  {
+    "title": "Hebridean Blue",
+    "localImageURL": "images/hebridean.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/hebridean.jpg",
+    "oldPrice": "",
+    "currentPrice": "£6.75"
+  },
+  {
+    "title": "Iain's Choice",
+    "localImageURL": "images/iains.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/iains.jpg",
+    "oldPrice": "",
+    "currentPrice": "£50.00"
+  },
+  {
+    "title": "Karen's Choice",
+    "localImageURL": "images/karens.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/karens.jpg",
+    "oldPrice": "",
+    "currentPrice": "£40.00"
+  },
+  {
+    "title": "Lanark Blue",
+    "localImageURL": "images/lanark.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/lanark.jpg",
+    "oldPrice": "",
+    "currentPrice": "£6.82"
+  },
+  {
+    "title": "Membrillo Blue",
+    "localImageURL": "images/membrillo.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/membrillo.jpg",
+    "oldPrice": "",
+    "currentPrice": "£4.00"
+  },
+  {
+    "title": "Mikey's Selection",
+    "localImageURL": "images/mikeys.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/mikeys.jpg",
+    "oldPrice": "",
+    "currentPrice": "£70.00"
+  },
+  {
+    "title": "Membrillo Blue",
+    "localImageURL": "images/pasteurised.jpg",
+    "absoluteImageURL": "https://cdn.adimo.co/clients/Adimo/test/images/pasteurised.jpg",
+    "oldPrice": "£32.00",
+    "currentPrice": "£40.00"
+  },
+  "The total number of cheeses is 10",
+  "The average price of all items is £27.6"
+]
